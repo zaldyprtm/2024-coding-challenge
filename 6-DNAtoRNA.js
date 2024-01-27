@@ -8,4 +8,4 @@ const DNAtoRNA = (dna) => dna.split('T').join('U');
 //   cara kedua
 // function DNAtoRNA(dna) {
 //     return dna.replaceAll('T','U');
-//   }
+//   
